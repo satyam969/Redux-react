@@ -1,0 +1,39 @@
+What is Redux
+
+redux is a container where you can store your whole application data
+(not database)
+that is why we call it a state management
+
+it does not belong to the componenet state
+
+frontend ke andr lgta hai like:-userdata,dynamic datas ,..etc
+
+Why needed?
+
+kyuki recat ke andr hm alg alg component bnate hai aur do component k bich me 
+contact kranan bhut muskil hota hai (nested props)(prop drilling)
+
+(Context Api bhi use krte hai iskeliye )
+
+
+
+Redux toolkit is preffered
+
+
+
+Redux Architecture:-
+
+Action:-collect data from component or Api
+Reducer:-Get data from action and send to store
+Store:-Satate of complete application
+View:-React component
+
+
+# Ek application ke andar ek hi store hoga 
+
+
+
+npm i redux ,
+npm i react-redux
+
+
