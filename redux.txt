@@ -37,3 +37,12 @@ npm i redux ,
 npm i react-redux
 
 
+Files:-
+
+Components
+Containers
+Service
+ actions
+ reducers
+ constants (dono file ko btayega ki jb sction se data reducer me jyeg to kon sa data kon se fncn pe jyega )
+
